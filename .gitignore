@@ -1,0 +1,35 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Build output
+# Quartz generates the static site here
+public/
+
+# Local configuration and secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Quartz-specific cache
+.quartz-cache/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDE/Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Optional: If you use a custom script to sync content 
+# and don't want the temporary files tracked
+.temp/
