@@ -65,7 +65,7 @@ Subtasks:
 - [x] ~~`npx create-quartz@latest` scaffold~~
 - [x] Copy contents of jackzha0/quartz into folder
 - [x] `npm i`; `npx quartz create`
-- [ ] Copy `Recursive.woff2` into `quartz/static/fonts/`
+- [x] Copy `Recursive.woff2` into `quartz/static/fonts/`
 - [ ] Write `quartz/styles/recursive.css` — `@font-face` declaration + CSS custom property system for all five axes
 - [ ] Write `quartz/styles/catppuccin.css` — Mocha and Latte palette as CSS custom properties (`--ctp-base`, `--ctp-mauve`, etc.)
 - [ ] Write `quartz/styles/custom.scss` — wire font and color variables into Quartz's theme system, override base component styles
