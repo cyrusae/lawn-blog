@@ -63,8 +63,8 @@ All five axes controlled via CSS custom properties to avoid inheritance issues.
 
 Subtasks:
 - [x] ~~`npx create-quartz@latest` scaffold~~
-- [ ] Copy contents of jackzha0/quartz into folder
-- [ ] `npm i`; `npx quartz create`
+- [x] Copy contents of jackzha0/quartz into folder
+- [x] `npm i`; `npx quartz create`
 - [ ] Copy `Recursive.woff2` into `quartz/static/fonts/`
 - [ ] Write `quartz/styles/recursive.css` — `@font-face` declaration + CSS custom property system for all five axes
 - [ ] Write `quartz/styles/catppuccin.css` — Mocha and Latte palette as CSS custom properties (`--ctp-base`, `--ctp-mauve`, etc.)
